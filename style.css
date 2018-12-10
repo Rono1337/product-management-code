@@ -1,0 +1,20 @@
+
+.tr{
+	margin:0;
+	padding:0;
+}
+.th{
+	background-color:##99e6ff;
+	text-align:center;
+	margin-left:10px;
+	border:2px solid #fff;
+}
+.td{
+	background-color:#9999ff;
+}
+.b{
+	float:right;
+}
+.form-control{
+	margin-bottom:10px;
+}
